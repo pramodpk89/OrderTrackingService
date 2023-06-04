@@ -1,0 +1,11 @@
+server:
+  port: 8080
+oauth:
+  oauthUrl: OAUTH_URL
+  clientId: CLIENT_ID
+  clientSecret: CLIENT_SECRET
+  grantType: GRANT_TYPE
+
+ppk:
+  service:
+    carrierServiceUrl: http://dummycarrier:8081/dummyCarrier/tracker
